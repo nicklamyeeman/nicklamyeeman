@@ -11,17 +11,16 @@ You can click the Preview link to take a look at your changes.
 
 #### Hey there 👋
 
-<p>
-    I'm <b>Nick</b>, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about <b> 🎮 video games</b> and <b> 🧮 mathematics</b>. A passion that I pass on thanks to my current job as a <b> 🧑🏻‍🏫 teaching assistant</b> in my school.
-    </br>
-    I also do <i>personal projects</i>, <b> 💻 computer projects</b> to make my life easier or <b> 🎨 artistic projects</b> to entertain myself.
-</p>
-<p>
-    I like to <b>speak in public</b> and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.
-</p>
+I'm **Nick**, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about 🎮 **video games** and 🧮 **mathematics**. A passion that I pass on thanks to my current job as a 🧑🏻‍🏫 **teaching assistant** in my school.
+
+I also do *personal projects*, 💻 **computer projects** to make my life easier or 🎨 **artistic projects** to entertain myself.
+I like to **speak in public** and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.
+
+<div align="center">
 
 [![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](lamyeemanick@gmail.com)
 
+</div>
 
 # Welcome to my GitHub page
 
@@ -31,29 +30,42 @@ You can click the Preview link to take a look at your changes.
     <tr>
         <td>
             <a href="https://github.com/nicklamyeeman/Blast-of-Arena">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=Blast-of-Arena&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=Blast-of-Arena&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
             </a>
         </td>
         <td>
             <a href="https://github.com/nicklamyeeman/face_drawer">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=face_drawer&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=face_drawer&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/nicklamyeeman/my_rpg">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_rpg&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_rpg&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
             </a>
         </td>
         <td>
             <a href="https://github.com/nicklamyeeman/my_sokoban">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
             </a>
         </td>
     </tr>
 </table>
 
+</br>
+
+## 🎭 CertiFaced
+
+**CertiFaced** is my *graduation project* with <del>seven</del> *six* other Epitech students. Our project consists in bringing help to people suffering from **faceblindness**, that is to say people who are unable to recognize a face.
+Just imagine that **every time** you meet someone, you feel like you're meeting them for the **first time** in your life, even if it's **your mom**.
+
+So we developed an **Android** application on **Android Studio** with the **Kotlin** language that serves as a "Proof of Concept" coupling **facial recognition** *(and facial detection)* and using **MLKit** for **augmented reality**.
+
+</br>
+
+<a href="https://play.google.com/store/apps/details?id=leananas.eip.certifaceds">
+    <img align="center" src="./assets/CertiFaced/certifaced-white.png" />
 </br>
 
 ## 💼 Skills

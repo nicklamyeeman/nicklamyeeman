@@ -5,23 +5,21 @@ You can click the Preview link to take a look at your changes.
 
 ![Nick's GitHub Banner](./assets/GitHubHeader.png)
 [![LinkedIn Badge](https://img.shields.io/badge/Profile-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white)](https://www.linkedin.com/in/nicklamyeeman/)
+[![Youtube Badge](https://img.shields.io/badge/Profile-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/channel/UCzOsV4YkX29hsZtU9u3RopQ)
 [![CodeWars Badge](https://img.shields.io/badge/Profile-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=B1361E&labelColor=white)](https://www.codewars.com/users/Otyne)
 
-Hey there 👋
+#### Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p>
+    I'm <b style="color:#F7701C;">Nick</b>, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about <b> 🎮 video games</b> and <b> 🧮 mathematics</b>. A passion that I pass on thanks to my current job as a <b> 🧑🏻‍🏫 teaching assistant</b> in my school.
+    </br>
+    I also do <i>personal projects</i>, <b> 💻 computer projects</b> to make my life easier or <b> 🎨 artistic projects</b> to entertain myself.
+</p>
+<p>
+    I like to <b>speak in public</b> and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.
+</p>
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
+#### Welcome to my GitHub page
 
 ## 📌 Pinned Repositories
 

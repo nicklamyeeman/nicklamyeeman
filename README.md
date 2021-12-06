@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     I like to <b>speak in public</b> and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.
 </p>
 
-[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=flat-square&logoWidth=50&logo=gmail&logoColor=EA4335&labelColor=white)](lamyeemanick@gmail.com)
+[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](lamyeemanick@gmail.com)
 
 
 # Welcome to my GitHub page

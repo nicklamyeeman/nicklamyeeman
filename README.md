@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Nick's GitHub Banner](./assets/GitHubHeader.png)
-[![LinkedIn Badge](https://img.shields.io/badge/Profile-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white)](https://www.linkedin.com/in/nicklamyeeman/)
-[![Youtube Badge](https://img.shields.io/badge/Profile-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/channel/UCzOsV4YkX29hsZtU9u3RopQ)
-[![CodeWars Badge](https://img.shields.io/badge/Profile-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=B1361E&labelColor=white)](https://www.codewars.com/users/Otyne)
+[![LinkedIn Badge](https://img.shields.io/badge/Profile-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=white)](https://www.linkedin.com/in/nicklamyeeman/)
+[![Youtube Badge](https://img.shields.io/badge/Profile-Youtube-FF0000?style=flat&logo=youtube&logoColor=FF0000&labelColor=white)](https://www.youtube.com/channel/UCzOsV4YkX29hsZtU9u3RopQ)
+[![CodeWars Badge](https://img.shields.io/badge/Profile-Codewars-B1361E?style=flat&logo=codewars&logoColor=B1361E&labelColor=white)](https://www.codewars.com/users/Otyne)
 
 #### Hey there 👋
 
@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 # Welcome to my GitHub page
 
 ## 📌 Pinned Repositories
-
-<br>
 
 <table>
     <tr>
@@ -56,18 +54,16 @@ You can click the Preview link to take a look at your changes.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)

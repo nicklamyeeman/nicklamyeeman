@@ -192,6 +192,8 @@ So we developed an **Android** application on **Android Studio** with the **Kotl
 
 </details>
 
+</br>
+
 ## 🏆 Awards and distinctions
 
 - 🥇 1st Prize : WebCup Indian Ocean 2019

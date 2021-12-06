@@ -19,49 +19,36 @@ You can click the Preview link to take a look at your changes.
     I like to <b>speak in public</b> and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.
 </p>
 
-#### Welcome to my GitHub page
+# Welcome to my GitHub page
 
 ## 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/nicklamyeeman/Blast-of-Arena">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=Blast-of-Arena&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/nicklamyeeman/face_drawer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=face_drawer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/nicklamyeeman/my_rpg">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_rpg&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
-<br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/nicklamyeeman/my_sokoban">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
-<br>
+
 
 ## 💼 Skills
 
@@ -119,21 +106,3 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!

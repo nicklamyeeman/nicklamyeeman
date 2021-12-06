@@ -18,7 +18,7 @@ I like to **speak in public** and I don't hesitate to talk about my ideas in fro
 
 <div align="center">
 
-[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](lamyeemanick@gmail.com)
+[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](mailto:lamyeemanick@gmail.com)
 
 </div>
 
@@ -193,14 +193,14 @@ So we developed an **Android** application on **Android Studio** with the **Kotl
 
 ## 🏆 Awards and distinctions
 
-- 🥇 1st Prize : Webcup Réunion 2019
-    - [Zinfos974 : Le projet Perfect Timing primé à la Webcup 2019](https://www.zinfos974.com/Le-projet-Perfect-Timing-prime-a-la-Webcup-2019_a141545.html)
-- 🥇 1st Prize : Startup Weekend 2019
-    - [Zinfos974 : CertiFaced, système de reconnaissance faciale, remporte le 1er prix du Startupweekend !](https://www.zinfos974.com/CertiFaced-systeme-de-reconnaissance-faciale-remporte-le-1er-prix-du-Startupweekend-_a144580.html)
-- 🥇 Public Award : Startup Weekend 2019
-- 🥈 2nd Prize : Hackccion
-    - [Facebook Hackccion](https://www.facebook.com/hackccion/posts/129840985085978)
-- 🥈 2nd Prize : Hackathon NxSE 2019
 - 🥇 1st Prize : WebCup Indian Ocean 2019
     - [Réunion 1ère : WebCup océan Indien : La Réunion vainqueur 2019](https://la1ere.francetvinfo.fr/reunion/webcup-ocean-indien-reunion-vainqueur-2019-779803.html)
     - [Epitech : Le campus d’Epitech à la Réunion rayonne dans l’Océan Indien !](https://www.epitech.eu/fr/actualites-evenements/le-campus-depitech-a-la-reunion-rayonne-dans-locean-indien/)
+- 🥈 2nd Prize : Hackathon NxSE 2019
+- 🥈 2nd Prize : Hackccion
+    - [Facebook Hackccion](https://www.facebook.com/hackccion/posts/129840985085978)
+- 🥇 1st Prize : Startup Weekend 2019
+    - [Zinfos974 : CertiFaced, système de reconnaissance faciale, remporte le 1er prix du Startupweekend !](https://www.zinfos974.com/CertiFaced-systeme-de-reconnaissance-faciale-remporte-le-1er-prix-du-Startupweekend-_a144580.html)
+- 🥇 Public Award : Startup Weekend 2019
+- 🥇 1st Prize : Webcup Réunion 2019
+    - [Zinfos974 : Le projet Perfect Timing primé à la Webcup 2019](https://www.zinfos974.com/Le-projet-Perfect-Timing-prime-a-la-Webcup-2019_a141545.html)

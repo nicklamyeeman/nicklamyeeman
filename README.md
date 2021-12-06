@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 #### Hey there 👋
 
 I'm **Nick**, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about 🎮 **video games** and 🧮 **mathematics**. A passion that I pass on thanks to my current job as a 🧑🏻‍🏫 **teaching assistant** in my school.
+I studied in 🇰🇷 **South Korea** in 2020 to deepen my knowledge in video game development as well as in artistic opening.
 
 I also do *personal projects*, 💻 **computer projects** to make my life easier or 🎨 **artistic projects** to entertain myself.
 I like to **speak in public** and I don't hesitate to talk about my ideas in front of different audiences, which allowed me to win 🏆 several idea contests in my region.

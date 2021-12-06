@@ -25,30 +25,34 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<a href="https://github.com/nicklamyeeman/Blast-of-Arena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=Blast-of-Arena&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
-</a>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/nicklamyeeman/Blast-of-Arena">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=Blast-of-Arena&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/nicklamyeeman/face_drawer">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=face_drawer&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/nicklamyeeman/my_rpg">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_rpg&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/nicklamyeeman/my_sokoban">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+            </a>
+        </td>
+    </tr>
+</table>
 
-<br>
-
-<a href="https://github.com/nicklamyeeman/face_drawer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=face_drawer&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/nicklamyeeman/my_rpg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_rpg&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/nicklamyeeman/my_sokoban">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
-</a>
-
-<br>
-
+</br>
 
 ## 💼 Skills
 

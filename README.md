@@ -93,12 +93,12 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Adobe-AfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Adobe-Audition-informational?style=flat&logo=Adobe-Audition&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Adobe-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=DA1F26)
+![](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=DA1F26)
+![](https://img.shields.io/badge/Adobe-AfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=white&color=DA1F26)
+![](https://img.shields.io/badge/Adobe-PremierePro-informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=white&color=DA1F26)
+![](https://img.shields.io/badge/Adobe-Audition-informational?style=flat&logo=Adobe-Audition&logoColor=white&color=DA1F26)
+![](https://img.shields.io/badge/Adobe-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=DA1F26)
 
 
 

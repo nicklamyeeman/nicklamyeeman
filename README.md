@@ -54,31 +54,31 @@ You can click the Preview link to take a look at your changes.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=A8B9CC&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=3776AB&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=007396&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=7F52FF&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=239120&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=777BB4&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=3178C6&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-LUA-informational?style=flat&logo=lua&logoColor=2C2D72&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnubash&logoColor=4EAA25&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=4FC08D&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=339933&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=007ACC&labelColor=white)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=F05138&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/C-Code-informational?style=flat&logo=c&logoColor=A8B9CC&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/C++-Code-informational?style=flat&logo=c%2B%2B&logoColor=00599C&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=3776AB&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/Java-Code-informational?style=flat&logo=Java&logoColor=007396&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/Kotlin-Code-informational?style=flat&logo=kotlin&logoColor=7F52FF&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/CSharp-Code-informational?style=flat&logo=c-sharp&logoColor=239120&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/PHP-Code-informational?style=flat&logo=php&logoColor=777BB4&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=TypeScript&logoColor=3178C6&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/LUA-Code-informational?style=flat&logo=lua&logoColor=2C2D72&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/Bash-Code-informational?style=flat&logo=gnubash&logoColor=4EAA25&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/VueJS-Code-informational?style=flat&logo=vue.js&logoColor=4FC08D&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/NodeJS-Code-informational?style=flat&logo=node.js&logoColor=339933&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/React-Code-informational?style=flat&logo=react&logoColor=61DAFB&color=007ACC&labelColor=white)
+![](https://img.shields.io/badge/Swift-Code-informational?style=flat&logo=swift&logoColor=F05138&color=007ACC&labelColor=white)
 
 </br>
 
-![](https://img.shields.io/badge/Code-Unity-informational?style=flat&logo=unity&logoColor=000000&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-UnrealEngine-informational?style=flat&logo=unrealengine&logoColor=0E1128&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=3DDC84&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-Sympfony-informational?style=flat&logo=symfony&logoColor=0098FF&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordpress&logoColor=21759B&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=47A248&color=5C2D91&labelColor=white)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=4479A1&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/Unity-Code-informational?style=flat&logo=unity&logoColor=000000&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/UnrealEngine-Code-informational?style=flat&logo=unrealengine&logoColor=0E1128&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/AndroidStudio-Code-informational?style=flat&logo=androidstudio&logoColor=3DDC84&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/Sympfony-Code-informational?style=flat&logo=symfony&logoColor=0098FF&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/Wordpress-Code-informational?style=flat&logo=wordpress&logoColor=21759B&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/MongoDB-Code-informational?style=flat&logo=MongoDB&logoColor=47A248&color=5C2D91&labelColor=white)
+![](https://img.shields.io/badge/MySQL-Code-informational?style=flat&logo=MySQL&logoColor=4479A1&color=5C2D91&labelColor=white)
 
 <!---
 <details>

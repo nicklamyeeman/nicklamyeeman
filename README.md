@@ -55,7 +55,7 @@ I like to **speak in public** and I don't hesitate to talk about my ideas in fro
 
 </br>
 
-## 🎭 CertiFaced
+## ![](./assets/CertiFaced/favicon-certifaced-blue.png =20x20) CertiFaced
 
 **CertiFaced** is my *graduation project* with <del>seven</del> *six* other Epitech students. Our project consists in bringing help to people suffering from **faceblindness**, that is to say people who are unable to recognize a face.
 Just imagine that **every time** you meet someone, you feel like you're meeting them for the **first time** in your life, even if it's **your mom**.

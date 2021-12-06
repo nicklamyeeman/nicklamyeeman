@@ -78,7 +78,7 @@ So we developed an **Android** application on **Android Studio** with the **Kotl
 
 </br>
 
-[![Certifaced Logo](./assets/CertiFaced/certifaced-blue.png)](http://www.certifaced.com)
+[![Certifaced Logo](./assets/CertiFaced/certifaced-white.png)](http://www.certifaced.com)
 
 </br>
 
@@ -189,6 +189,18 @@ So we developed an **Android** application on **Android Studio** with the **Kotl
 ![](https://img.shields.io/badge/Audition-Adobe-informational?style=flat&logo=Adobe-Audition&logoColor=9999FF&color=da1f26&labelColor=E9E9E9)
 ![](https://img.shields.io/badge/AdobeXD-Adobe-informational?style=flat&logo=Adobe-XD&logoColor=FF61F6&color=da1f26&labelColor=E9E9E9)
 
-
-
 </details>
+
+## 🏆 Awards and distinctions
+
+- 🥇 1st Prize : Webcup Réunion 2019
+    - [Zinfos974 : Le projet Perfect Timing primé à la Webcup 2019](https://www.zinfos974.com/Le-projet-Perfect-Timing-prime-a-la-Webcup-2019_a141545.html)
+- 🥇 1st Prize : Startup Weekend 2019
+    - [Zinfos974 : CertiFaced, système de reconnaissance faciale, remporte le 1er prix du Startupweekend !](https://www.zinfos974.com/CertiFaced-systeme-de-reconnaissance-faciale-remporte-le-1er-prix-du-Startupweekend-_a144580.html)
+- 🥇 Public Award : Startup Weekend 2019
+- 🥈 2nd Prize : Hackccion
+    - [Facebook Hackccion](https://www.facebook.com/hackccion/posts/129840985085978)
+- 🥈 2nd Prize : Hackathon NxSE 2019
+- 🥇 1st Prize : WebCup Indian Ocean 2019
+    - [Réunion 1ère : WebCup océan Indien : La Réunion vainqueur 2019](https://la1ere.francetvinfo.fr/reunion/webcup-ocean-indien-reunion-vainqueur-2019-779803.html)
+    - [Epitech : Le campus d’Epitech à la Réunion rayonne dans l’Océan Indien !](https://www.epitech.eu/fr/actualites-evenements/le-campus-depitech-a-la-reunion-rayonne-dans-locean-indien/)

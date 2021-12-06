@@ -55,7 +55,7 @@ I like to **speak in public** and I don't hesitate to talk about my ideas in fro
 
 </br>
 
-## ![](./assets/CertiFaced/favicon-certifaced-blue.png =20x20) CertiFaced
+## <img width="30px" src="./assets/CertiFaced/favicon-certifaced-blue.png"> CertiFaced
 
 **CertiFaced** is my *graduation project* with <del>seven</del> *six* other Epitech students. Our project consists in bringing help to people suffering from **faceblindness**, that is to say people who are unable to recognize a face.
 Just imagine that **every time** you meet someone, you feel like you're meeting them for the **first time** in your life, even if it's **your mom**.
@@ -64,8 +64,22 @@ So we developed an **Android** application on **Android Studio** with the **Kotl
 
 </br>
 
-<a href="https://play.google.com/store/apps/details?id=leananas.eip.certifaceds">
-    <img align="center" src="./assets/CertiFaced/certifaced-white.png" />
+<div align="center">
+
+[![CertiFaced Play Store](https://img.shields.io/badge/Play_Store-Download-informational?style=for-the-badge&logo=googleplay&logoColor=8CC34A&color=8CC34A&labelColor=F5F5F5)](https://play.google.com/store/apps/details?id=leananas.eip.certifaced)
+
+</div>
+
+### Related Articles 📰
+
+- [Zinfos974 : CertiFaced, système de reconnaissance faciale, remporte le 1er prix du Startupweekend !](https://www.zinfos974.com/CertiFaced-systeme-de-reconnaissance-faciale-remporte-le-1er-prix-du-Startupweekend-_a144580.html)
+- [EPITECH : Des étudiants d’Epitech récompensés lors du Startupweekend à la Réunion !](https://www.epitech.eu/fr/actualites-evenements/des-etudiants-depitech-recompenses-lors-du-startupweekend-a-la-reunion/)
+- [Marketing Management IO : Notre top 12 des start-up à La Réunion](https://www.marketing-management.io/blog/start-up-reunion)
+
+</br>
+
+[![Certifaced Logo](./assets/CertiFaced/certifaced-blue.png)](http://www.certifaced.com)
+
 </br>
 
 ## 💼 Skills

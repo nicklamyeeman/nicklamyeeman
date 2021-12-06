@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 #### Hey there 👋
 
 <p>
-    I'm <b style="color:#F7701C;">Nick</b>, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about <b> 🎮 video games</b> and <b> 🧮 mathematics</b>. A passion that I pass on thanks to my current job as a <b> 🧑🏻‍🏫 teaching assistant</b> in my school.
+    I'm <b>Nick</b>, I'm 24 years old and I'm a computer science student at Epitech school. I'm about to graduate and I'm passionate about <b> 🎮 video games</b> and <b> 🧮 mathematics</b>. A passion that I pass on thanks to my current job as a <b> 🧑🏻‍🏫 teaching assistant</b> in my school.
     </br>
     I also do <i>personal projects</i>, <b> 💻 computer projects</b> to make my life easier or <b> 🎨 artistic projects</b> to entertain myself.
 </p>

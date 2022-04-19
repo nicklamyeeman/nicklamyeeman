@@ -47,8 +47,8 @@ I like to **speak in public** and I don't hesitate to talk about my ideas in fro
             </a>
         </td>
         <td>
-            <a href="https://github.com/nicklamyeeman/my_sokoban">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_sokoban&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
+            <a href="https://github.com/nicklamyeeman/my_chess">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nicklamyeeman&repo=my_chess&title_color=ffffff&text_color=c9cacc&icon_color=EB5C1E&bg_color=1A2B34" />
             </a>
         </td>
     </tr>

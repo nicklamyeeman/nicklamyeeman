@@ -20,7 +20,7 @@ I like to **speak in public** and I don't hesitate to talk about my ideas in fro
 
 <div align="center">
 
-[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](mailto:lamyeemanick@gmail.com)
+[![contact Badge](https://img.shields.io/badge/Contact-me-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white)](mailto:nick@lamyeeman.com)
 
 </div>
 
